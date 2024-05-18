@@ -28,6 +28,7 @@ else{
 
 <head>
     <meta charset="UTF-8">
+    <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
@@ -51,7 +52,7 @@ else{
         </form>
 
     </div>
-    <!--INSERT  INTO tripp (no, name, age, gender, email, phone, other, dt) VALUES ('1', 'priya', '52', 'female', 'prriya20@gmail.com', '34523421', 'hello this is first database', current_timestamp());-->
+    
 
 </body>
 
