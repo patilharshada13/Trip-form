@@ -33,11 +33,12 @@ else{
     <title>Document</title>
 </head>
 <link rel="stylesheet" href="style.css">
-
 <body>
-    
+    <img src="C:\xampp\htdocs\form\download.jpeg" alt="">
     <div class="con">
-        <h1>welcome to RCPIMRD B ombay trip form..</h1>
+        <center>
+        <h2>welcome to RCPIMRD B ombay trip form..</h2>
+</center>
         <p>fill this form to conferm ur participation...</p>
         <p class="smsg">thanks for submiting form..</p>
 
